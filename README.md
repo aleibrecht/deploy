@@ -44,7 +44,7 @@ Para la versión 3.4 estamos instalando de la siguiente manera:
     apt-get install \
            python-dev swig python-pip python-dev python-lxml libxml2-dev libxslt-dev \
            postgresql postgresql-client postgresql-server-dev-all libpq-dev \
-           make git mercurial
+           make git mercurial unoconv virtualenvwrapper
 ```
 
    * si queremos generar pdfs, es necesario instalar dos paquetes más::
