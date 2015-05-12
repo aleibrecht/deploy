@@ -41,7 +41,6 @@ trytonar-account-voucher-ar
 trytonar-account-check-ar
 trytonar-account-retencion-ar
 trytonar-account-bank-ar
-trytonar-country_ar
 fpdf
 pyafipws
 vatnumber==1.2
