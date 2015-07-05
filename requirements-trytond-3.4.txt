@@ -36,11 +36,13 @@ trytond-product==3.4.1
 trytond-purchase==3.4.1
 trytond-sale==3.4.1
 trytond-stock==3.4.1
+trytonar-account-ar
 trytonar-account-invoice-ar
 trytonar-account-voucher-ar
 trytonar-account-check-ar
 trytonar-account-retencion-ar
 trytonar-account-bank-ar
+trytonar-country-ar
 fpdf
 vatnumber==1.2
 wsgiref==0.1.2
